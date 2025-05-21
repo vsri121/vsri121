@@ -17,20 +17,20 @@ Welcome to my GitHub! I'm a Computer Science undergrad passionate about building
 
 ## 🛠️ Skills
 
-### Languages
-`Python` `Java` `C` `SQL` `JavaScript` `PHP` `MATLAB`
+### 💻 Languages
+- 🐍 Python ☕ Java 💻 C 🗃️ SQL 🌐 JavaScript 🐘 PHP 📊 MATLAB
 
-### Web Development
-`HTML/CSS` `JavaScript` `MERN Stack (MongoDB, Express, React, Node.js)` `REST APIs`
+### 🌐 Web Development
+- 🖌️ HTML/CSS ⚙️ JavaScript 🧩 MERN Stack (🟢 MongoDB, 🚂 Express, ⚛️ React, 🟦 Node.js) 🔗 REST APIs
 
-### Machine Learning
-`NumPy` `Pandas` `Matplotlib` `ML Algorithms` `Jupyter Lab` `Deep Learning` `NLP Basics`
+### 🤖 Machine Learning
+- 🔣 NumPy 📊 Pandas 📈 Matplotlib 📚 Jupyter Lab 🧠 ML Algorithms 🧬 Deep Learning 🗣️ NLP Basics
 
-### Databases
-`MySQL` `MongoDB` `Oracle`
+### 🗄️ Databases
+- 🐬 MySQL 🍃 MongoDB 🔵 Oracle
 
-### Tools & Platforms
-`Git` `VS Code` `Google Cloud` `Chrome DevTools`
+### 🧰 Tools & Platforms
+- 🌩️ Google Cloud 🐙 GitHub 🧠 VS Code 🧪 Chrome DevTools
 
 ---
 

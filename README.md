@@ -6,7 +6,7 @@
 
 - 🎓 B.E. Honors in CSE @ Osmania University (2022–26)
 - 💻 Full-stack and AI/ML enthusiast
-- 🌐 Internship: Web Management at Osmania University
+- 🌐 Internship: Oscowl AI
 - 👩‍🎨 President at Communication & Interpersonal Skills Club
 - 🔭 Vice Chair at IEEE Computer Society
 

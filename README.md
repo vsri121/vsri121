@@ -1,4 +1,4 @@
-# 👋 Yo, I'm Varsha
+# 👋 Heyy! I'm Varsha
 
  I’m a Computer Science undergrad who loves cooking up software that actually makes life easier (and way less boring). I’m all about mixing full-stack web development with a sprinkle of AI/ML, basically trying to build cool stuff that’s smart and useful.
 

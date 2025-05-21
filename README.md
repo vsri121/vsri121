@@ -7,7 +7,7 @@
 
 # 👋 Hi, I'm Varsha
 
--✨ *Well-behaved women seldom make pull requests.* 😉 
+✨ *Well-behaved women seldom make pull requests.* 😉 
 - 👩‍💻 I build full-stack apps & love solving real-world problems. 
 - 🎓 CSE Student @ Osmania University, Class of ‘26.
 - 💡 Interested in ML, APIs, and beautiful UI/UX.

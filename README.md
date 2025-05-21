@@ -9,7 +9,6 @@
 
 -✨ *Well-behaved women seldom make pull requests.* 😉 
 - 👩‍💻 I build full-stack apps & love solving real-world problems. 
-- 🌐 Currently working as an Intern @ Oscowl AI
 - 🎓 CSE Student @ Osmania University, Class of ‘26.
 - 💡 Interested in ML, APIs, and beautiful UI/UX.
 - 💬 Ask me about MERN, MySQL, or getting started with ML!

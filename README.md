@@ -1,14 +1,25 @@
-# 👋 Heyy! I'm Varsha
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://img.freepik.com/premium-vector/vector-illustration-girl-working-laptop-home-flat-design_1057-122084.jpg" alt="coding girl" width="100%">
+    </td>
+    <td width="60%">
 
- I’m a Computer Science undergrad who loves cooking up software that actually makes life easier (and way less boring). I’m all about mixing full-stack web development with a sprinkle of AI/ML, basically trying to build cool stuff that’s smart and useful.
+# 👋 Hi, I'm Varsha
 
+-✨ *Well-behaved women seldom make pull requests.* 😉 
+- 👩‍💻 I build full-stack apps & love solving real-world problems. 
+- 🌐 Currently working as an Intern @ Oscowl AI
+- 🎓 CSE Student @ Osmania University, Class of ‘26.
+- 💡 Interested in ML, APIs, and beautiful UI/UX.
+- 💬 Ask me about MERN, MySQL, or getting started with ML!
+- ✨ Fun fact: I’ve hosted 10+ public speaking workshops 🎤.
+- 🤝 CISC President | IEEE CS Vice Chairperson
 
+</td>
+</tr>
+</table>
 
-- 🎓 B.E. Honors in CSE @ Osmania University (2022–26)
-- 💻 Full-stack and AI/ML enthusiast
-- 🌐 Internship: Oscowl AI
-- 👩‍🎨 President at Communication & Interpersonal Skills Club
-- 🔭 Vice Chair at IEEE Computer Society
 
 ---
 
@@ -49,35 +60,24 @@
 
 ---
 
-## 🚀 Projects
-
-### 🧘‍♀️ [ProdMate – Productivity App](https://prodmate-f-git-main-vsri121s-projects.vercel.app/)
-- A full-stack MERN application with Pomodoro Timer, Calendar, and To-Do List
-- Features real-time sync and a clean, responsive UI
-
-### 🧠 Course Management System
-- Backend with MySQL, PHP, and role-based access
-- 🏆 1st place @ CodeFest (IEEE OUCE)
-
-### 🎮 Other Projects
-- [ToDo List](https://github.com/vsri121/Basic-ToDoList) – Web-based task manager
-- [Weather App](https://github.com/vsri121/basic-weather-app) – Real-time data via API
-- [The Gorilla Game](https://github.com/vsri121/the-gorilla-game) – Interactive browser game
-
----
-
 ## 🏅 Achievements
 
 - 🥇 Winner of CodeFest 2024
 - ☁️ Google Cloud Pathways Certified
 - 🧑‍🏫 Mentored peers in DSA, Full Stack, and AI via IEEE WIE
-- 🗣️ Led 10+ workshops as Creative Head of the CISC Club
+- 🗣️ Led 10+ workshops as Creative Head of the CISC Club (now President)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![vsri121's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vsri121&show_icons=true&theme=tokyonight)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vsri121&show_icons=true&theme=tokyonight" alt="Sri Varsha’s GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsri121&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
+</p>
+<p float="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsri121&theme=tokyonight" alt="GitHub Streak" width="48%">
+</p>
 
 ---
 
